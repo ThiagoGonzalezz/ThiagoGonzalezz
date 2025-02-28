@@ -40,15 +40,22 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-
-
-
 </span>
 
-</span>
 
+<span>
 
 <h2> <img src="assets/Spaceship.gif" width="40px">&nbsp; My Portfolio </h2>
+<p>
+  Throughout my journey as a software developer, I’ve worked on various projects that reflect my skills and passion for technology.  
+  In my portfolio, you'll find a selection of my work, ranging from front-end designs to back-end architectures.  
+  I’m always looking for opportunities to innovate and collaborate.  
+  Feel free to check out my projects!
+</p>
+
+🔗 **[Visit My Portfolio](https://your-portfolio-link.com)**
+
+</span>
 
 <span>
   
