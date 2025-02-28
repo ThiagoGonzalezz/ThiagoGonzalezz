@@ -4,7 +4,7 @@
 
 <h2> <img src="assets/star.gif" width="30px">&nbsp; About Me</h2>
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
+I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently in my fourth year. Dedicated, organized, and professional, I am looking for a part-time job to continue learning and gaining experience in this amazing profession.
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
