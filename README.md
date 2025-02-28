@@ -21,7 +21,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <a href="https://www.linkedin.com/in/thiago-martin-gonzalez/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:thiago.gonzalez@example.com" target="blank"><img align="center"
+  <a href="mailto:thiago23gonzalez@gmail.com" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
       alt="email" height="30" width="40" /></a>
 </p>
@@ -66,5 +66,4 @@ I am a computer engineering student, currently halfway through my degree. I am e
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGonzalezz&theme=material-palenight)](https://github.com/ThiagoGonzalezz)
 </div>
 
-</span>
 
