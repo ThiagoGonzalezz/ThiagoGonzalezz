@@ -55,10 +55,10 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <h2> <img src="assets/phone.gif" width="40px">&nbsp;Contact Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/thiago-martin-gonzalez/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      src="assets/linkedin.pmg"
       alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:thiago23gonzalez@gmail.com" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      src="assets/gmail.pmg"
       alt="email" height="30" width="40" /></a>
 </p>
 
