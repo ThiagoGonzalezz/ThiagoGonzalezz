@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="coding penguin" src="assets/coding-penguin.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; <h2>About Me</h2>
+<h2> <img src="assets/star.gif" width="30px">&nbsp; About Me</h2>
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
@@ -16,7 +16,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </span>
 
 
-<h2>My Skills </h2>
+<h2> <img src="assets/tools.gif" width="45px">&nbsp;My Skills </h2>
 
 <h4> Languages </h4>
 <span> 
@@ -45,9 +45,14 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
+</span>
+
+
+<h2> <img src="assets/Spaceship.gif" width="40px">&nbsp; My Portfolio </h2>
+
 <span>
   
-<h2>Contact Me</h2>
+<h2> <img src="assets/phone.gif" width="40px">&nbsp;Contact Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/thiago-martin-gonzalez/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
@@ -59,7 +64,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
-<h2>Github Stats</h2> 
+<h2> <img src="assets/github.gif" width="30px">&nbsp;Github Stats</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=ThiagoGonzalezz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ThiagoGonzalezz)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGonzalezz&theme=material-palenight)](https://github.com/ThiagoGonzalezz)
