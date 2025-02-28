@@ -55,10 +55,10 @@ I am a computer engineering student, currently halfway through my degree. I am e
 <h2> <img src="assets/phone.gif" width="40px">&nbsp;Contact Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/thiago-martin-gonzalez/" target="blank"><img align="center"
-      src="assets/linkedin.pmg"
+      src="assets/linkedin.png"
       alt="linkedin" height="30" width="40" /></a>
   <a href="mailto:thiago23gonzalez@gmail.com" target="blank"><img align="center"
-      src="assets/gmail.pmg"
+      src="assets/gmail.png"
       alt="email" height="30" width="40" /></a>
 </p>
 
