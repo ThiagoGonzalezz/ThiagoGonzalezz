@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; <h2>About Me</h2>
 
 I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company that creates systems for carpentry. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning ...
@@ -16,19 +16,7 @@ I am a computer engineering student, currently halfway through my degree. I am e
 </span>
 
 
-<h2>Connect with me:</h2>
-<p>
-  <a href="https://www.linkedin.com/in/thiago-martin-gonzalez/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:thiago23gonzalez@gmail.com" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
-      alt="email" height="30" width="40" /></a>
-</p>
-
-</span>
-
-## My Skills Include
+<h2>My Skills </h2>
 
 <h4> Languages </h4>
 <span> 
@@ -40,8 +28,6 @@ I am a computer engineering student, currently halfway through my degree. I am e
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
   <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
   <img src= "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
- 
-
 
 </span>
 
@@ -59,8 +45,21 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
+<span>
+  
+<h2>Contact Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/thiago-martin-gonzalez/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:thiago23gonzalez@gmail.com" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg"
+      alt="email" height="30" width="40" /></a>
+</p>
 
-<h2>Github stats:</h2> 
+</span>
+
+<h2>Github Stats</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=ThiagoGonzalezz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ThiagoGonzalezz)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGonzalezz&theme=material-palenight)](https://github.com/ThiagoGonzalezz)
