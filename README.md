@@ -3,11 +3,11 @@
 
 <h2> ⭐About Me</h2>
 
-🧑‍💻 I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently in my fourth year. Passionate about backend development, I am always eager to learn and improve my skills.
+  🧑‍💻 I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently in my fourth year. Passionate about backend development, I am always eager to learn and improve my skills.
 
-💡 I consider myself dedicated, organized, and professional, with a strong problem-solving mindset. I enjoy tackling challenges, working on meaningful projects, and collaborating with others to create efficient and scalable solutions.
+  💡 I consider myself dedicated, organized, and professional, with a strong problem-solving mindset. I enjoy tackling challenges, working on meaningful projects, and collaborating with others to create efficient and scalable solutions.
 
-🌱 I’m currently exploring Docker, and I’m interested in contributing to open-source projects. I also love sharing knowledge and engaging with the tech community.
+  🌱 I’m currently exploring Docker, and I’m interested in contributing to open-source projects. I also love sharing knowledge and engaging with the tech community.
 
 </span>
 
