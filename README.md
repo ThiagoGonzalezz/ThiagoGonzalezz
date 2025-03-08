@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="coding penguin" src="assets/coding-penguin.gif" />
 
-<h2> <img src="assets/star.gif" width="30px">&nbsp; About Me</h2>
+<h2> ⭐About Me</h2>
 
 I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently in my fourth year. I am dedicated, organized, and professional, always looking to continue learning and gaining experience in this amazing field.
 - 🌱 I’m currently learning ...
@@ -16,7 +16,7 @@ I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently i
 </span>
 
 
-<h2> <img src="assets/tools.gif" width="45px">&nbsp;My Skills </h2>
+<h2> 🛠️My Skills </h2>
 
 <h4> Languages </h4>
 <span> 
@@ -55,7 +55,7 @@ I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently i
 
 <span>
 
-<h2> <img src="assets/Spaceship.gif" width="40px">&nbsp; My Portfolio </h2>
+<h2> 🚀My Portfolio </h2>
 <p>
   Throughout my journey as a software developer, I’ve worked on various projects that reflect my skills and passion for technology.  
   In my portfolio, you'll find a selection of my work, ranging from front-end designs to back-end architectures.  
@@ -69,7 +69,7 @@ I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently i
 
 <span>
   
-<h2> <img src="assets/phone.gif" width="40px">&nbsp;Contact Me</h2>
+<h2> 📩Contact Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/thiago-martin-gonzalez/" target="blank"><img align="center"
       src="assets/linkedin.png"
@@ -81,7 +81,7 @@ I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently i
 
 </span>
 
-<h2> <img src="assets/github.gif" width="30px">&nbsp;Github Stats</h2> 
+<h2> <img src="assets/github.png" width="30px">&nbsp;Github Stats</h2> 
 
 [![](https://github-readme-stats.vercel.app/api?username=ThiagoGonzalezz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ThiagoGonzalezz)
 [![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGonzalezz&theme=material-palenight)](https://github.com/ThiagoGonzalezz)
