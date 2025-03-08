@@ -73,10 +73,3 @@ I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently i
 
 </span>
 
-<h2> <img src="assets/github-icon.png" width="30px">&nbsp;Github Stats</h2> 
-
-[![](https://github-readme-stats.vercel.app/api?username=ThiagoGonzalezz&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/ThiagoGonzalezz)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=ThiagoGonzalezz&theme=material-palenight)](https://github.com/ThiagoGonzalezz)
-</div>
-
-
