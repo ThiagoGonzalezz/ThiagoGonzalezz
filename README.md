@@ -4,7 +4,7 @@
 
 <h2> <img src="assets/star.gif" width="30px">&nbsp; About Me</h2>
 
-I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently in my fourth year. Dedicated, organized, and professional, I am looking for a part-time job to continue learning and gaining experience in this amazing profession.
+I am a 21-year-old Computer Systems Engineering student at UTN FRBA, currently in my fourth year. I am dedicated, organized, and professional, always looking to continue learning and gaining experience in this amazing field.
 - 🌱 I’m currently learning ...
   - Nest.js
   - Angular
