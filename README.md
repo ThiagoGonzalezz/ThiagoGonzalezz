@@ -59,7 +59,7 @@
   Feel free to check out my projects!
 </p>
 
-🔗 **[Visit My Portfolio](https://your-portfolio-link.com)**
+🔗 **[Visit My Portfolio](https://github.com/ThiagoGonzalezz/my-portfolio)**
 
 </span>
 
